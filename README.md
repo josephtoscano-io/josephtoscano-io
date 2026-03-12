@@ -1,6 +1,6 @@
 ## Hey, I'm Joseph 👋
 
-Senior Product Designer @ [FanDuel](https://fanduel.com) &nbsp;·&nbsp; Founder of [Mindful Creative](https://josephtoscano.io)
+Senior Product Designer @ [FanDuel](https://fanduel.com) &nbsp;·&nbsp; Founder of [Mindful Creative](https://mindfulcreative.io/)
 
 I design products and build tools that help designers and developers move faster.
 
