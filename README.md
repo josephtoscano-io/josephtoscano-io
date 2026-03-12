@@ -1,14 +1,23 @@
-## Hey, I'm Joe
+## Hey, I'm Joseph 👋
 
-Senior Product Designer @ [FanDuel](https://fanduel.com) &nbsp;·&nbsp; Founder of Mindful Creative
+Senior Product Designer @ [FanDuel](https://fanduel.com) &nbsp;·&nbsp; Founder of [Mindful Creative](https://josephtoscano.io)
 
-I design and build tools for designers and product teams.
+I design products and build tools that help designers and developers move faster.
 
-**Currently exploring:**
+---
+
+### What I Do
+- Product design for large-scale consumer platforms
+- Build AI-assisted design workflows
+- Develop WordPress sites and infrastructure
+- Run a one-man web agency serving small businesses and startups
+
+---
+
+### Currently Exploring
 - AI-assisted design workflows
 - Figma automation & MCP integrations
-- Claude Code skills
-- WordPress infrastructure
+- Claude Code Agent Skills
 
 ---
 
