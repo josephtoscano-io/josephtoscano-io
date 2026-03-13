@@ -18,6 +18,8 @@ I design products and build tools that help designers and developers move faster
 - AI-assisted design workflows
 - Figma automation & MCP integrations
 - Claude Code skills
+- WordPress plugin development
+- Figma plugin development
 
 ---
 
