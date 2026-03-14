@@ -11,7 +11,8 @@ I design products and build tools that help designers and developers move faster
 - Build AI-assisted design workflows
 - Develop WordPress sites and infrastructure
 - Run a one-man web agency serving small businesses and startups
-- Develop and sell WordPress plugins
+- WordPress plugin development
+- Figma plugin development
 
 ---
 
@@ -38,6 +39,10 @@ Clone any of these into `~/.claude/commands/` and invoke them as slash commands.
 
 ---
 
-### Figma plugins
+### WordPress plugins
 
-Coming soon.
+WordPress plugins built under [Mindful Plugins](https://mindfulplugins.io/), solving real problems for theme and plugin developers.
+
+| Plugin | What it does |
+|---|---|
+| [Template Updater for WooCommerce](https://github.com/mindfulplugins/template-updater-for-woocommerce) | Auto-update WooCommerce template overrides via 3-way git merge with AI conflict resolution |
