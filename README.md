@@ -41,7 +41,7 @@ Clone any of these into `~/.claude/commands/` and invoke them as slash commands.
 
 ### WordPress plugins
 
-WordPress plugins built under [Mindful Plugins](https://mindfulplugins.io/), solving real problems for theme and plugin developers.
+WordPress plugins built under [Mindful Plugins](https://mindfulplugins.io/), solving real problems for theme developers.
 
 | Plugin | What it does |
 |---|---|
