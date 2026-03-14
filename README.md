@@ -1,6 +1,6 @@
 ## Hey, I'm Joseph 👋
 
-Senior Product Designer @ [FanDuel](https://fanduel.com) &nbsp;·&nbsp; Founder of [Mindful Creative](https://mindfulcreative.io/)
+Senior Product Designer @ [FanDuel](https://fanduel.com) &nbsp;·&nbsp; Founder of [Mindful Creative](https://mindfulcreative.io/) & [Mindful Plugins](https://mindfulplugins.io/)
 
 I design products and build tools that help designers and developers move faster.
 
@@ -11,6 +11,8 @@ I design products and build tools that help designers and developers move faster
 - Build AI-assisted design workflows
 - Develop WordPress sites and infrastructure
 - Run a one-man web agency serving small businesses and startups
+- WordPress plugin development
+- Figma plugin development
 
 ---
 
@@ -34,3 +36,9 @@ Clone any of these into `~/.claude/commands/` and invoke them as slash commands.
 | [publish-skill](https://github.com/josephtoscano-io/publish-skill) | Package and publish a skill as a structured GitHub repo |
 | [acf-migrate](https://github.com/josephtoscano-io/acf-migrate) | Full ACF migration workflow for WordPress themes |
 | [feature-concept](https://github.com/josephtoscano-io/feature-concept) | Generate product-native concepts from a Figma design system |
+
+---
+
+### Figma plugins
+
+Coming soon.
