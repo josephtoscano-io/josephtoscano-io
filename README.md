@@ -8,9 +8,9 @@ I design products and build tools that help designers and developers move faster
 
 ### What I Do
 - Product design for large-scale consumer platforms
-- Build AI-assisted design workflows
 - Develop WordPress sites and infrastructure
 - Run a one-man web agency serving small businesses and startups
+- Build AI-assisted design workflows
 - WordPress plugin development
 - Figma plugin development
 
