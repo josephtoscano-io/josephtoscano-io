@@ -46,3 +46,4 @@ WordPress plugins built under [Mindful Plugins](https://mindfulplugins.io/), sol
 | Plugin | What it does |
 |---|---|
 | [Template Updater for WooCommerce](https://github.com/mindfulplugins/template-updater-for-woocommerce) | Auto-update WooCommerce template overrides via 3-way git merge with AI conflict resolution |
+| [Custom Taxonomy Order](https://github.com/mindfulplugins/custom-taxonomy-order) | Drag-and-drop taxonomy term ordering on edit-tags screens with hierarchy-aware Pro sorting |
