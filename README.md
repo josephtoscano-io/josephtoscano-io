@@ -22,6 +22,7 @@ I design products and build tools that help designers and developers move faster
 - Claude Code skills
 - WordPress plugin development
 - Figma plugin development
+- macOS utilities
 
 ---
 
@@ -47,3 +48,13 @@ WordPress plugins built under [Mindful Plugins](https://mindfulplugins.io/), sol
 |---|---|
 | [Template Updater for WooCommerce](https://github.com/mindfulplugins/template-updater-for-woocommerce) | Auto-update WooCommerce template overrides via 3-way git merge with AI conflict resolution |
 | [Custom Taxonomy Order](https://github.com/mindfulplugins/custom-taxonomy-order) | Drag-and-drop taxonomy term ordering on edit-tags screens with hierarchy-aware Pro sorting |
+
+---
+
+### macOS utilities
+
+Small tools for macOS power users.
+
+| Utility | What it does |
+|---|---|
+| [mac-netswitch](https://github.com/josephtoscano-io/mac-netswitch) | Auto-toggle Wi-Fi when ethernet is connected, with an optional SwiftBar menu bar icon |
