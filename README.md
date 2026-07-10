@@ -37,6 +37,7 @@ Clone any of these into `~/.claude/commands/` and invoke them as slash commands.
 | [publish-skill](https://github.com/josephtoscano-io/publish-skill) | Package and publish a skill as a structured GitHub repo |
 | [acf-migrate](https://github.com/josephtoscano-io/acf-migrate) | Full ACF migration workflow for WordPress themes |
 | [feature-concept](https://github.com/josephtoscano-io/feature-concept) | Generate product-native concepts from a Figma design system |
+| [pdf-make-fillable](https://github.com/josephtoscano-io/pdf-make-fillable) | Convert a static PDF into a fully interactive fillable form |
 
 ---
 
