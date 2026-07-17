@@ -26,7 +26,7 @@ I design products and build tools that help designers and developers move faster
 
 ---
 
-### Claude Code Skills/Commands
+### Claude Code skills/commands
 
 Reusable skills for [Claude Code](https://claude.ai/code), built around real design and dev workflows.
 Clone any of these into `~/.claude/commands/` and invoke them as slash commands.
