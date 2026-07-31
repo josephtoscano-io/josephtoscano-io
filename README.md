@@ -38,6 +38,7 @@ Clone any of these into `~/.claude/commands/` and invoke them as slash commands.
 | [acf-migrate](https://github.com/josephtoscano-io/acf-migrate) | Full ACF migration workflow for WordPress themes |
 | [design-concept](https://github.com/josephtoscano-io/design-concept) | Generate product-native concepts from a Figma design system |
 | [pdf-make-fillable](https://github.com/josephtoscano-io/pdf-make-fillable) | Convert a static PDF into a fully interactive fillable form |
+| [wp-password-reset](https://github.com/josephtoscano-io/wp-password-reset) | Generate and verify WordPress 6.8+ password hashes for direct DB edits |
 
 ---
 
