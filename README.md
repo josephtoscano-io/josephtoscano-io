@@ -53,16 +53,6 @@ WordPress plugins built under [Mindful Plugins](https://mindfulplugins.io/), sol
 
 ---
 
-### macOS utilities
-
-Small tools for macOS power users.
-
-| Utility | What it does |
-|---|---|
-| [mac-netswitch](https://github.com/josephtoscano-io/mac-netswitch) | Auto-toggle Wi-Fi when ethernet is connected, with an optional SwiftBar menu bar icon |
-
----
-
 ### Design tools
 
 Converters for moving design files into Figma.
@@ -70,3 +60,13 @@ Converters for moving design files into Figma.
 | Tool | What it does |
 |---|---|
 | [convert-to-fig](https://github.com/josephtoscano-io/convert-to-fig) | Convert Adobe XD files and PDFs into real Figma .fig files |
+
+---
+
+### macOS utilities
+
+Small tools for macOS power users.
+
+| Utility | What it does |
+|---|---|
+| [mac-netswitch](https://github.com/josephtoscano-io/mac-netswitch) | Auto-toggle Wi-Fi when ethernet is connected, with an optional SwiftBar menu bar icon |
