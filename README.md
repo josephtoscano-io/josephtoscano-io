@@ -30,7 +30,7 @@ I design products and build tools that help designers and developers move faster
 
 | Project | What it is | Links |
 |---|---|---|
-| **Tokenshire** | A pixel-art JRPG town built in three.js where every townsperson is one of my real dev systems: Claude Code sessions fight a dragon, gulp builds at the forge, cron rings the bell | [Try the demo](https://tokenshire.ai) |
+| **Tokenshire** | A pixel-art JRPG town built in three.js where every townsperson is one of my real dev systems: Claude Code sessions fight a dragon, gulp builds at the forge, cron rings the bell | [Demo](https://tokenshire.ai) |
 
 ---
 
