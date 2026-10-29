@@ -26,6 +26,14 @@ I design products and build tools that help designers and developers move faster
 
 ---
 
+### Projects
+
+| Project | What it is | Links |
+|---|---|---|
+| **Tokenshire** | A pixel-art JRPG town built in three.js where every townsperson is one of my real dev systems: Claude Code sessions fight a dragon, gulp builds at the forge, cron rings the bell | [Play the demo](https://tokenshire.ai) · [Portfolio](https://josephtoscano.io/#lab) |
+
+---
+
 ### Claude Code skills/commands
 
 Reusable skills for [Claude Code](https://claude.ai/code), built around real design and dev workflows.
