@@ -31,9 +31,9 @@ I design products and build tools that help designers and developers move faster
 | Project | What it is | Links |
 |---|---|---|
 | **Tokenshire** | A pixel-art JRPG town built in three.js where every townsperson is one of my real dev systems: Claude Code sessions fight a dragon, gulp builds at the forge, cron rings the bell | [Demo](https://tokenshire.ai) |
-| **Claude Control** | The remote for my always-on mini PC: Claude Code sessions, SFTP syncs for every client site, and a Moonlight tap to remote in, all from my phone | [Screens](https://josephtoscano.io/#lab-claude-control-look) |
-| **Droplet Dock** | The control room for the server behind my client sites: live CPU, memory and disk, every maintenance script a tap away, and a home-screen widget that says all is well | [Screens](https://josephtoscano.io/#lab-droplet-dock-look) |
-| **Haven** | A WordPress hosting control panel that spins up client sites and handles their databases, SSL and SSH keys, reading everything live off the server | [Screens](https://josephtoscano.io/#lab-haven-look) |
+| **Claude Control** | The remote for my always-on mini PC: Claude Code sessions, SFTP syncs for every client site, and a Moonlight tap to remote in, all from my phone | [Preview](https://josephtoscano.io/#lab-claude-control-look) |
+| **Droplet Dock** | The control room for the server behind my client sites: live CPU, memory and disk, every maintenance script a tap away, and a home-screen widget that says all is well | [Preview](https://josephtoscano.io/#lab-droplet-dock-look) |
+| **Haven** | A WordPress hosting control panel that spins up client sites and handles their databases, SSL and SSH keys, reading everything live off the server | [Preview](https://josephtoscano.io/#lab-haven-look) |
 
 ---
 
